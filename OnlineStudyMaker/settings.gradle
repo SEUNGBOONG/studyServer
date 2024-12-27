@@ -1,0 +1,4 @@
+rootProject.name = 'OnlineStudyMaker'
+include 'study-api'
+include 'study-batch'
+
